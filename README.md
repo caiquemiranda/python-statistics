@@ -1,6 +1,7 @@
 # statistics-data-analysis-python
 
-**Gráficos do experimento de analises multivariadas usando correção de Bonferroni **
+**Gráficos do experimento de analises multivariadas usando correção de Bonferroni**
+
 Notebook do experimento nesse repositório
 
 ![imagem comparação multiplas](https://user-images.githubusercontent.com/96856440/163726571-d3e878f7-25ab-4a72-9f29-cfeffbada013.png)
