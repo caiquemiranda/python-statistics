@@ -1,4 +1,4 @@
-# statistics-data-analysis-python
+# python-statistics
 
 **Gráficos do experimento de analises multivariadas usando correção de Bonferroni**
 
